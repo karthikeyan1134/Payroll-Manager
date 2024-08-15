@@ -22,8 +22,8 @@ This project is designed to track employee presence during office hours and calc
 <h3>Example Screenshots</h3>
 <ul>
     <img src="./images/1.png"><br>
-    <li><b>Environment: </b>The project running environment.<br>
-    </li>
+    <li><b>Environment: </b>The project running environment.
+    </li><br>
     <img src="./images/2.png"><br>
     <li><b>Start of Month:</b> When an employee checks in on March 14th, the system recognizes that no employee has checked in yet for the month, indicating the start of the month and creating a new file.</li><br>
     <img src="./images/3.png"><br>
