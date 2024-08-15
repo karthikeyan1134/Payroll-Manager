@@ -1,0 +1,8 @@
+Employee ID: 1234 entered the office at 2024-08-15 11:52:14
+Employee ID: 1212 entered the office at 2024-08-15 12:09:41
+Employee ID: 3333 entered the office at 2024-08-15 12:09:44
+Employee ID: 4444 entered the office at 2024-08-15 12:09:45
+Employee ID: 3333 left the office at 2024-08-15 12:09:49
+Employee ID: 4444 left the office at 2024-08-15 12:09:51
+Employee ID: 1212 left the office at 2024-08-15 12:09:54
+Employee ID: 1234 left the office at 2024-08-15 12:10:20
